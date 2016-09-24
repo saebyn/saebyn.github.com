@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: jQuery and upcoming features
+wordpress_id: 23
+wordpress_url: http://johnweaver.zxdevelopment.com/2008/03/29/jquery-and-upcoming-features/
+date: 2008-03-29 06:12:48 -07:00
+---
+<p>While I have used <a href="http://www.jquery.com/">jQuery</a> (a javascript utility library) in the past, I generally have fallen back to the <a href="http://www.prototypejs.org/">Prototype JS</a> library. This was mostly because I was already familiar with it from my work on <a href="http://www.familysnap.com/">FamilySnap</a>, and because it can be difficult to find the time to fit in learning another tool when it&#39;s not completely necessary to do so.</p>
+<p><a href="http://www.zxdevelopment.com/node/51">read more</a></p>
