@@ -1,0 +1,22 @@
+version: "2"
+
+services:
+        jekyll:
+                image: ruby
+                working_dir: /data
+                command: sh -c 'bundle install && bundle exec jekyll serve --host=0.0.0.0'
+                volumes:
+                 - ".:/data"
+                ports:
+                 - "4000:4000"
+
+        browsersync:
+                image: ustwo/browser-sync
+                command: start --proxy "jekyll:4000" --files "/data/"
+                volumes:
+                 - ".:/data"
+                links:
+                 - jekyll
+                ports:
+                 - "3000:3000"
+                 - "3001:3001"
