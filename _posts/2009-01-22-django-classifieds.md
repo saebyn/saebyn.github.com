@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Django-Classifieds
 wordpress_id: 32
@@ -22,7 +22,7 @@ Additional features include searching, attaching images to ads, PayPal checkout,
 configurable pricing options, and custom templates for listing, viewing, and
 editing each category of ad posting.
 
-<del>You can see a <a href="http://django-classifieds.zxdevelopment.com">demo version of this software here</a>.</div>
+<del>You can see a <a href="http://django-classifieds.zxdevelopment.com">demo version of this software here</a>.
 
 I can release this as an open source application, so that others can use
 it to build their own classified ad sites, but before I do I need to clean up

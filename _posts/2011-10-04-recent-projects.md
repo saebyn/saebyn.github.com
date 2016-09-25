@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Recent Projects
 date: 2011-10-04
@@ -17,9 +17,9 @@ I've been developing projects using Django since the 1.0 release (summer of
 
   * A phone number verification system using Twilio, which generates and speaks a PIN to the end user over the phone. It was developed with Django 1.3 using the django_twilio app.
   * A data importing system, which matched existing records fetched via an external API, allowed the user to manually select the best match, edit the generated record, and review records to be imported. This project was also developed using Django 1.3 and jQuery for a simple auto-completed search function. I also used Celery (and the django-celery app) to deal with the task of processing the uploaded data in the background.
-  * I am currently between iterations on [http://mathisasport.com/](http://mathisasport.com/), which is also developed with Django and jQuery. Most recently, I have developed several statistics gathering methods for the model managers in the app, using custom SQL (this site is using MySQL) as needed to allow the records returned in QuerySets to be sortable by the results.
+  * I am currently between iterations on <del>[http://mathisasport.com/](http://mathisasport.com/)</del>, which is also developed with Django and jQuery. Most recently, I have developed several statistics gathering methods for the model managers in the app, using custom SQL (this site is using MySQL) as needed to allow the records returned in QuerySets to be sortable by the results.
   * A series of HTTP-based web services for an unreleased web service API. The API calls return results in JSON and were developed using Django's class-based views.
-  * My most recent personal Django project is at [http://fanonic.net/](http://fanonic.net/). It's still in development, but somewhat usable at this stage, although there isn't much of any content there yet.
+  * My most recent personal Django project is at <del>[http://fanonic.net/](http://fanonic.net/)</del>. It's still in development, but somewhat usable at this stage, although there isn't much of any content there yet.
 
 I also have lots of examples of my work open sourced at [http://github.com/saebyn/](http://github.com/saebyn/). I've recently pushed out some updates for the one Django project I have there, django-classifieds, in the django-1.3 branch.
 

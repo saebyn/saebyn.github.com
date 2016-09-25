@@ -10,7 +10,7 @@ tags:
 - fanonic
 ---
 
-I'm an avid fan fiction reader, and one of my on-going projects is <a href="http://fanonic.net/">Fanonic.net - a fan fiction hosting site</a> that provides helpful features for readers to find the kind of stories they are looking for more easily. If you haven't heard of the term or come across fan fiction before, here's the <em>Wikipedia</em> defintition from the <a href="http://en.wikipedia.org/wiki/Fan_fiction">fan fiction</a> page:
+I'm an avid fan fiction reader, and one of my on-going projects is <del><a href="http://fanonic.net/">Fanonic.net - a fan fiction hosting site</a></del> that provides helpful features for readers to find the kind of stories they are looking for more easily. If you haven't heard of the term or come across fan fiction before, here's the <em>Wikipedia</em> defintition from the <a href="http://en.wikipedia.org/wiki/Fan_fiction">fan fiction</a> page:
 
 > <em>Fan fiction</em> (alternatively referred to as <em>fanfiction</em>, <em>fanfic</em>, <em>FF</em>, or <em>fic</em>) is a broadly-defined term for fan labor regarding stories about characters or settings written by fans of the original work, rather than by the original creator. Works of fan fiction are rarely commissioned or authorized by the original work's owner, creator, or publisher; also, they are almost never professionally published. Because of this, many fan fictions written often contain a disclaimer stating that the creator of the work owns none of the characters. Fan fiction, therefore, is defined by being both related to its subject's canonical fictional universe and simultaneously existing outside the canon of that universe.
 
