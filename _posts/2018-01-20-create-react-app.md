@@ -8,7 +8,7 @@ tags:
 - react
 ---
 
-tl;dr, clone https://github.com/saebyn/my-react-app
+tl;dr, clone [https://github.com/saebyn/my-react-app](https://github.com/saebyn/my-react-app)
 
 ## Introduction
 
@@ -137,7 +137,7 @@ Add a .eslintrc.json file to the top level:
 
 6. Setup storyshots for Jest
 
-    See https://github.com/storybooks/storybook/tree/master/addons/storyshots#configure-storyshots-for-html-snapshots for more about Storyshots and see https://facebook.github.io/jest/docs/en/snapshot-testing.html for more info about Jest's snapshot testing
+    See [more about Storyshots](https://github.com/storybooks/storybook/tree/master/addons/storyshots#configure-storyshots-for-html-snapshots) and [more info about Jest's snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html).
 
     Create a new test file with the name Storyshots.test.js (I'm putting it in src/)
 
@@ -224,4 +224,4 @@ Add a .eslintrc.json file to the top level:
     ```
 
 
-Check out https://github.com/saebyn/my-react-app/tree/339d213dc2b28c3714e8a1836dddd83cde4f761c for the end result, or try it yourself.
+[Check out the end result](https://github.com/saebyn/my-react-app/tree/339d213dc2b28c3714e8a1836dddd83cde4f761c), or try it yourself.
