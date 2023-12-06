@@ -43,6 +43,12 @@
 <!-- Load Modernizr -->
 <script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
+<script>
+if (window.location.protocol !== "https:") {
+  window.location = window.location.toString().replace(/^http:/, "https:");
+}
+</script>
+
 <!-- Icons -->
 <!-- 16x16 -->
 <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
