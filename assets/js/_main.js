@@ -1,8 +1,4 @@
 /*! Plugin options and other jQuery stuff */
-if (window.location.protocol != "https:") {
-  window.location = window.location.toString().replace(/^http:/, "https:");
-}
-
 // dl-menu options
 $(function() {
   $( '#dl-menu' ).dlmenu({
