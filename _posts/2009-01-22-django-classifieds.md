@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Django-Classifieds
-wordpress_id: 32
-wordpress_url: http://johnweaver.zxdevelopment.com/?p=32
 date: 2009-01-22 12:08:54 -08:00
 ---
 

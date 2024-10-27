@@ -1,8 +1,6 @@
 ---
 layout: post
 title: django-classified-ads
-wordpress_id: 33
-wordpress_url: http://johnweaver.zxdevelopment.com/?p=33
 date: 2009-02-28 18:40:39 -08:00
 ---
 
